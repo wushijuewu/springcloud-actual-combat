@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="productclient" />
+        <module name="eureka" />
+        <module name="common" />
+        <module name="config" />
+        <module name="apigateway" />
+        <module name="userserver" />
+        <module name="server" />
+        <module name="productserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="server (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="apigateway" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="config" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="order" options="" />
+      <module name="productclient" options="-parameters" />
+      <module name="productserver" options="-parameters" />
+      <module name="server" options="-parameters" />
+      <module name="server (1)" options="-parameters" />
+      <module name="user" options="-parameters" />
+      <module name="userserver" options="-parameters" />
+    </option>
+  </component>
+</project>
