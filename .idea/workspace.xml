@@ -2,79 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31cc6575-4880-466c-837e-1a1b917ce6c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03512c73493df3df8703a7086c546f0c654c99d1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03853e0c4f1dd197aa09ebfeaf28ae42b9d58e68" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/0801e28b780e0ea47d2366f5ccd97dc334af3fd8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c0e516ede99655ea26cf4c1a89d922da9408e2b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11233acbd093e617b874b2ec16d75e3de5ad9fd2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12bdd6b21869ad47527cf4581a92f2a2cf12488d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1af9147fbf7fe3ccf2d51acc8903cfbd7e61060c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e9073876dc191702b18647eb6397d64e63b08b3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22bca9ee29e3d8b61672f17e2a0aaae536f75a14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23ae8b5d424cb3c5274b59e2256721d156dec295" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a6acc951636e141163e518dd8439afb1804b7dd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2ca4ec1c9972ab18606eeeb4cd411151cb0ba40d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c2c5fee3bbb67b0fe0b1c9f172be0f4d65d5087" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44c5a92864d6bde9b37cc6c10ab772020012b392" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47c26d07f8d94cf47d63396bb645651dda6fe4d8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47d7d2dc2f6eda5c8a6bf7dadb1f67315f2773e3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a5154e87ea4b7aca519f3f8b966abe5be2d021e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55d4214f2e1b5b31f5d97ec8e5a078f02ca05b00" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c58fb868fc26320efddcc839df91e2b0541d251" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cd444b9e40fbc27f04f65aa7762cfba2e1bdc3b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d901a0f6e33d4585c4c6bb0cd45cb63308c3811" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f5f2df838290074821310160e3ae699d1811682" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90879f149c303ab3abe6b053b19b211bacdc437b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93282ac3a60f26e14978bc47231ea34da9857eb8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93d90008955dde98d382346259a3ca6a1f312491" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a000f67f0ea111e449f1efd8cb218721dbe917ce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a55b471a2dc3eb268d81175bf9f4d2736ef0748f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a61a6ee612ab4d2b4c59751622dc1a52c83aa8d8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc7fef7859a69346d1ad987fea67ac864e8ddb18" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c10f83de3ad2c77165d02bdba6de3c0c8fbbd50c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c14ec13380fad1d19d3f057607bc72418d65c243" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc3ccc5e0862dfb4355fc2dc30012ba596c4ee27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d08cd9c1e4c9b7730604319b6a3f62e4ec7e0328" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d46398febfb0d2c425c81a93c27ce36f24a1a877" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0c9799b2aa1db4beb89881c11d9998a43be64c1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e8d29e116e2b5b97e1e1bdf7b5894a7a16780c82" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebae3bc84e9aa54565223df8c65ef0955fc774cb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/efd68ccb814fa84be6ebb0d0a64c1faf9b051ae3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f11b27f02d340a28ecb772617ca4ed5144f59956" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f90393c3afbc8daf1bc6ff6135e9c3d7e6241dd1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb49320d44ff694326bcc810855b0035a9d0d485" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffb7e179965d070a95fcd742eaaaab9571c0462a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apigateway/target/classes/com/gblfy/apigateway/ApiGatewayApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apigateway/target/classes/com/gblfy/apigateway/ZuulConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apigateway/target/classes/com/gblfy/apigateway/config/CorsConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apigateway/target/classes/com/gblfy/apigateway/constant/CookieConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apigateway/target/classes/com/gblfy/apigateway/constant/RedisConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apigateway/target/classes/com/gblfy/apigateway/filter/AuthBuyerFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apigateway/target/classes/com/gblfy/apigateway/filter/AuthSellerFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apigateway/target/classes/com/gblfy/apigateway/utils/CookieUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/product-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product/product-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/product-server/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product/product-server/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/product-server/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product/product-server/target/classes/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/UserApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/constant/CookieConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/constant/RedisConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/controller/LonginController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/dataobject/UserInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/enums/ProductStatusEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/enums/ResultEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/enums/RoleEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/repository/UserInfoRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/utils/CookieUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/utils/JsonUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/utils/ResultVOUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user-server/target/classes/com/gblfy/user/vo/ResultVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/eureka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springcloud-actual-combat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/product.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,19 +43,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/order/server/pom.xml">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product/product-server/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1434">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="298">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -202,17 +126,17 @@
         <option value="$PROJECT_DIR$/user/pom.xml" />
         <option value="$PROJECT_DIR$/user/user-server/pom.xml" />
         <option value="$PROJECT_DIR$/product/product-server/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/product/product-server/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\rep" />
-        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="D:\rep\settings.xml" />
+        <option name="localRepository" value="J:\rep" />
+        <option name="mavenHome" value="J:/Program Files/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="J:\rep\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -252,104 +176,6 @@
             <path>
               <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-              <item name="product-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-              <item name="product-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-              <item name="product-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-              <item name="product-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-              <item name="product-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-actual-combat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-actual-combat" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-              <item name="product-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -635,16 +461,18 @@
       <workItem from="1556543105383" duration="6661000" />
       <workItem from="1556549909686" duration="3096000" />
       <workItem from="1556602900573" duration="487000" />
+      <workItem from="1556627745164" duration="286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10244000" />
+    <option name="totallyTimeSpent" value="10530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37099236" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37862596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -669,17 +497,17 @@
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="bottom" id="Version Control" order="16" />
-      <window_info anchor="right" id="CDI" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.26335877" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.26335877" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1008,13 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/product/product-server/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -1029,17 +850,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/product/product-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1434">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/order/server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/product-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1100,7 +928,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
