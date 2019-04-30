@@ -1,9 +1,0 @@
-
-Wsquid:UnusedPrivateMethodP"-Remove this unused private "fallback" method.(Îµ‰±ûÿÿÿÿ
-Ysquid:UnusedPrivateMethodT"4Remove this unused private "defaultFallback" method.(ŒÕÂ’
-gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ÖÁŒ´ýÿÿÿÿ
-bsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ÄóŒÃ
-gsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ÕÆ¿Ðüÿÿÿÿ
-gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ÖÁŒ´ýÿÿÿÿ
-Psquid:S3400Q"9Remove this method and declare a constant for this value.(ÃÔð‘
-Usquid:S3400U"9Remove this method and declare a constant for this value.(ðñ˜Üùÿÿÿÿ

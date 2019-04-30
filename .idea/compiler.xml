@@ -6,32 +6,51 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="productclient" />
-        <module name="eureka" />
-        <module name="common" />
-        <module name="config" />
-        <module name="apigateway" />
         <module name="userserver" />
-        <module name="server" />
+        <module name="product-common" />
         <module name="productserver" />
+        <module name="api-gateway" />
+        <module name="product-client" />
+        <module name="server" />
+        <module name="order-server" />
+        <module name="user-server" />
+        <module name="product-server" />
+        <module name="eureka" />
+        <module name="config" />
+        <module name="productclient" />
+        <module name="common" />
+        <module name="apigateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="server (1)" target="1.8" />
+      <module name="spring-cloud-bus" target="1.8" />
+      <module name="spring-cloud-bus-dependencies" target="1.5" />
+      <module name="spring-cloud-bus-docs" target="1.8" />
+      <module name="spring-cloud-bus-parent" target="1.8" />
+      <module name="spring-cloud-bus-tests" target="1.8" />
+      <module name="spring-cloud-starter-bus-amqp" target="1.8" />
+      <module name="spring-cloud-starter-bus-kafka" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
       <module name="apigateway" options="-parameters" />
       <module name="common" options="-parameters" />
       <module name="config" options="-parameters" />
       <module name="eureka" options="-parameters" />
       <module name="order" options="" />
+      <module name="order-server" options="-parameters" />
+      <module name="product-client" options="-parameters" />
+      <module name="product-common" options="-parameters" />
+      <module name="product-server" options="-parameters" />
       <module name="productclient" options="-parameters" />
       <module name="productserver" options="-parameters" />
       <module name="server" options="-parameters" />
       <module name="server (1)" options="-parameters" />
       <module name="user" options="-parameters" />
+      <module name="user-server" options="-parameters" />
       <module name="userserver" options="-parameters" />
     </option>
   </component>
